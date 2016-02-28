@@ -1,0 +1,13 @@
+E:\congBox\temp\RectangleDemoWpf\RectangleDemoWpf\bin\Debug\RectangleDemoWpf.exe.config
+E:\congBox\temp\RectangleDemoWpf\RectangleDemoWpf\bin\Debug\RectangleDemoWpf.exe
+E:\congBox\temp\RectangleDemoWpf\RectangleDemoWpf\bin\Debug\RectangleDemoWpf.pdb
+E:\congBox\temp\RectangleDemoWpf\RectangleDemoWpf\obj\Debug\MainWindow.g.cs
+E:\congBox\temp\RectangleDemoWpf\RectangleDemoWpf\obj\Debug\App.g.cs
+E:\congBox\temp\RectangleDemoWpf\RectangleDemoWpf\obj\Debug\RectangleDemoWpf_MarkupCompile.cache
+E:\congBox\temp\RectangleDemoWpf\RectangleDemoWpf\obj\Debug\RectangleDemoWpf_MarkupCompile.lref
+E:\congBox\temp\RectangleDemoWpf\RectangleDemoWpf\obj\Debug\MainWindow.baml
+E:\congBox\temp\RectangleDemoWpf\RectangleDemoWpf\obj\Debug\RectangleDemoWpf.g.resources
+E:\congBox\temp\RectangleDemoWpf\RectangleDemoWpf\obj\Debug\RectangleDemoWpf.Properties.Resources.resources
+E:\congBox\temp\RectangleDemoWpf\RectangleDemoWpf\obj\Debug\RectangleDemoWpf.csproj.GenerateResource.Cache
+E:\congBox\temp\RectangleDemoWpf\RectangleDemoWpf\obj\Debug\RectangleDemoWpf.exe
+E:\congBox\temp\RectangleDemoWpf\RectangleDemoWpf\obj\Debug\RectangleDemoWpf.pdb

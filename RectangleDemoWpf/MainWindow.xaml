@@ -1,0 +1,17 @@
+﻿<Window x:Class="RectangleDemoWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RectangleDemoWpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="860">
+    <Grid Margin="0,0,0,-21">
+        <Canvas x:Name="myCanv" HorizontalAlignment="Left" Height="309" Margin="10,90,0,0" VerticalAlignment="Top" Width="832">
+            <Label x:Name="label" Content="" Canvas.Left="22" Canvas.Top="458" Height="38" Width="361"/>
+            <Rectangle x:Name="r1" Fill="#FFF4F4F5" Height="100" Canvas.Left="182" Stroke="Black" Canvas.Top="83" Width="100" MouseLeftButtonDown="r1_MouseLeftButtonDown" MouseUp="r1_MouseUp" MouseMove="r1_MouseMove"/>
+        </Canvas>
+        <Label x:Name="HintsLabel" Content="For the adjacent detection, please move your mouse to x-axis 660" HorizontalAlignment="Left" Margin="28,10,0,0" VerticalAlignment="Top" Height="37" Width="788"/>
+        <Label x:Name="mouseLocationLabel" Content="Mouse Location:" HorizontalAlignment="Left" Margin="28,497,0,0" VerticalAlignment="Top" Height="41" Width="281"/>
+    </Grid>
+</Window>
